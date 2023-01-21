@@ -1,0 +1,14 @@
+["divine-syrex"] = {
+        models = {
+            -164777755
+        },
+        options = {
+            {
+                type = "client", 
+                event = "divine-syrex:HappyBirthday", 
+                icon = 'fas fa-coffee', 
+                label = 'Happy Birthday', 
+            }
+        },
+        distance = 2.5,
+    },
