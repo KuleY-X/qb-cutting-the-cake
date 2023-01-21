@@ -20,4 +20,4 @@ qb-target
         },
         distance = 2.5,
     },
-![piece_of_cake](https://user-images.githubusercontent.com/92866354/213846723-f20285f5-392d-4b91-82ce-8c608c3907cd.png)
+
