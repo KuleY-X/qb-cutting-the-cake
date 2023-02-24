@@ -12,10 +12,10 @@ qb-target
         },
         options = {
             {
-                type = "client", 
-                event = "qb-cake:HappyBirthday", 
-                icon = 'fas fa-coffee', 
-                label = 'Happy Birthday', 
+                type = "client",
+                event = "qb-cake:HappyBirthday",
+                icon = 'fas fa-coffee',
+                label = 'Happy Birthday',
             }
         },
         distance = 2.5,
