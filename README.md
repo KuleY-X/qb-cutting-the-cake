@@ -1,4 +1,4 @@
-https://forum.cfx.re/t/addon-prop-birthday-cake/4989650
+prop - https://forum.cfx.re/t/addon-prop-birthday-cake/4989650
 # qb-cake
 iteams.lua
 
