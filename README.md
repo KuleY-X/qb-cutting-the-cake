@@ -6,7 +6,7 @@ iteams.lua
 
 
 qb-target
-
+[[
 ["qb-cake"] = {
         models = {
             -164777755
@@ -22,3 +22,4 @@ qb-target
         distance = 2.5,
     },
 
+]]
