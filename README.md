@@ -2,7 +2,7 @@ prop - https://forum.cfx.re/t/addon-prop-birthday-cake/4989650
 # qb-cake
 iteams.lua
 
-['piece_of_cake']   = {['name'] = 'piece_of_cake', 	['label'] = 'Piece of Cake', 	['weight'] = 200, ['type'] = 'item', ['image'] = 'piece_of_cake.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = 'Nice to eat'},```
+```['piece_of_cake']   = {['name'] = 'piece_of_cake', 	['label'] = 'Piece of Cake', 	['weight'] = 200, ['type'] = 'item', ['image'] = 'piece_of_cake.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = 'Nice to eat'},
 
 
 qb-target
