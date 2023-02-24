@@ -6,7 +6,7 @@ iteams.lua
 
 
 qb-target
-["qb-cake"] = {
+```["qb-cake"] = {
         models = {
             -164777755
         },
